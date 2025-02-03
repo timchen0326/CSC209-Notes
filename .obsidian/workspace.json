@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2/PCRS.md",
+                "file": "Week 4/PCRS.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,7 +171,9 @@
   },
   "active": "3f56f89c42d79302",
   "lastOpenFiles": [
+    "Week 2/calls_and_pointers-soln.pdf",
     "README.md",
+    "Week 2/PCRS.md",
     "Week 1/Lecture Notes.md",
     "Week 4/PCRS.md",
     "Week 4/Lab 4.md",
@@ -195,8 +197,6 @@
     "Week 1/L1.2-ethics-paul.pdf",
     "Week 1/L1.1-intro-paul.pdf",
     "Week 2/array_and_pointer_basics-soln.pdf",
-    "Week 2/calls_and_pointers-soln.pdf",
-    "Week 2/PCRS.md",
     "Week 5",
     "Untitled 1.canvas",
     "2025-02-01.md",
