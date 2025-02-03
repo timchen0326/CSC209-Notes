@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "1ca7c74916a5022e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3336c2febb6fa03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f56f89c42d79302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2/PCRS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PCRS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b9411e9aea1c308",
+    "type": "split",
+    "children": [
+      {
+        "id": "708c47e854df6cc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "006bf0075b4cc98c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b782c3ce9e1d195f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d0071fd078558d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97cd4bf5e7d4ad62",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ccdeb5c704a0f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b19cbaf12343983",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 3/PCRS Extra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PCRS Extra"
+            }
+          },
+          {
+            "id": "b5b32dae9c92b44a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 3/PCRS Extra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PCRS Extra"
+            }
+          },
+          {
+            "id": "b6c48277ba56ecc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8a26c706c9d67b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 3/PCRS Extra.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PCRS Extra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "3f56f89c42d79302",
+  "lastOpenFiles": [
+    "README.md",
+    "Week 1/Lecture Notes.md",
+    "Week 4/PCRS.md",
+    "Week 4/Lab 4.md",
+    "Week 4/strings_solution.pdf",
+    "Week 5/PCRS.md",
+    "Week 3/Lab 3.md",
+    "Week 2/Lab 2.md",
+    "Week 3/malloc_basics_solution.pdf",
+    "Week 1/Lab 1.md",
+    "Week 3/PCRS.md",
+    "Week 3/PCRS Extra.md",
+    "Week 3/stack_vs_heap_solutions.pdf",
+    "Screenshot 2025-02-02 at 4.37.32 PM.png",
+    "Screenshot 2025-02-02 at 4.36.53 PM.png",
+    "Screenshot 2025-02-02 at 4.34.12 PM.png",
+    "Assignment/A1.md",
+    "Untitled.md",
+    "Assignment",
+    "Untitled.canvas",
+    "Week 1/CSC209_Lab1_Midterm_Study_Guide.md",
+    "Week 1/L1.2-ethics-paul.pdf",
+    "Week 1/L1.1-intro-paul.pdf",
+    "Week 2/array_and_pointer_basics-soln.pdf",
+    "Week 2/calls_and_pointers-soln.pdf",
+    "Week 2/PCRS.md",
+    "Week 5",
+    "Untitled 1.canvas",
+    "2025-02-01.md",
+    "Week 4",
+    "Week 4.md",
+    "Week 2/Lecture Notes.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
