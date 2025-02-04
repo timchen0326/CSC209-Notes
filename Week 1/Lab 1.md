@@ -110,6 +110,7 @@ gcc -Wall -g -o program_name source_code.c
 - \`-o <output>\` → Names the executable.
 
 ### 🎯 Running a C Program
+
 ```bash
 # Compile a C program
 gcc -Wall -g -o program_name source_code.c
