@@ -11,12 +11,14 @@
             "id": "3f56f89c42d79302",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Week 4/strings_solution.pdf"
+                "file": "Week 4/PCRS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "strings_solution"
+              "icon": "lucide-file",
+              "title": "PCRS"
             }
           },
           {
@@ -197,6 +199,14 @@
   },
   "active": "3f56f89c42d79302",
   "lastOpenFiles": [
+    "Week 2/Lab 2.md",
+    "Week 2/array_and_pointer_basics-soln.pdf",
+    "Week 1/Lecture Notes.md",
+    "Week 1/L1.2-ethics-paul.pdf",
+    "Week 1/L1.1-intro-paul.pdf",
+    "Term Test 1 Practice Questions/CSC209 Practice Questions.md",
+    "Term Test 1 Practice Questions/Fall 2024 Term Test 1 - Practice Questions.md",
+    "Week 4/strings_solution.pdf",
     "Week 4/PCRS.md",
     "Week 4/Lab 4.md",
     "Week 3/stack_vs_heap_solutions.pdf",
@@ -204,18 +214,12 @@
     "Week 3/PCRS.md",
     "Week 3/malloc_basics_solution.pdf",
     "Week 3/Lab 3.md",
-    "Week 2/array_and_pointer_basics-soln.pdf",
     "Week 2/calls_and_pointers-soln.pdf",
     "Week 2/PCRS.md",
-    "Week 2/Lab 2.md",
     "Week 1/Lab 1.md",
-    "Week 1/Lecture Notes.md",
-    "Term Test 1 Practice Questions/Fall 2024 Term Test 1 - Practice Questions.md",
-    "Term Test 1 Practice Questions/CSC209 Practice Questions.md",
     "Assignment/A1.md",
     "Term Test 1 Practice Questions",
     "README.md",
-    "Week 4/strings_solution.pdf",
     "Week 5/PCRS.md",
     "Screenshot 2025-02-02 at 4.37.32 PM.png",
     "Screenshot 2025-02-02 at 4.36.53 PM.png",
@@ -224,8 +228,6 @@
     "Assignment",
     "Untitled.canvas",
     "Week 1/CSC209_Lab1_Midterm_Study_Guide.md",
-    "Week 1/L1.2-ethics-paul.pdf",
-    "Week 1/L1.1-intro-paul.pdf",
     "Week 5",
     "Untitled 1.canvas",
     "2025-02-01.md",
