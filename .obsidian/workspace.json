@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4/PCRS.md",
+                "file": "Week 6/PCRS.md",
                 "mode": "source",
                 "source": false
               },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3/PCRS Extra.md",
+                "file": "Week 6/PCRS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PCRS Extra"
+              "title": "Backlinks for PCRS"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3/PCRS Extra.md",
+                "file": "Week 4/PCRS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PCRS Extra"
+              "title": "Outgoing links from PCRS"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3/PCRS Extra.md",
+                "file": "Week 4/PCRS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PCRS Extra"
+              "title": "Outline of PCRS"
             }
           },
           {
@@ -204,12 +204,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f56f89c42d79302",
+  "active": "dbfa47fbe2a5c3e1",
   "lastOpenFiles": [
+    "Week 6/PCRS.md",
+    "Week 4/PCRS.md",
+    "Week 6",
     "Week 2/Lab 2.md",
     "Week 2/array_and_pointer_basics-soln.pdf",
     "Week 1/Lecture Notes.md",
@@ -218,7 +220,6 @@
     "Term Test 1 Practice Questions/CSC209 Practice Questions.md",
     "Term Test 1 Practice Questions/Fall 2024 Term Test 1 - Practice Questions.md",
     "Week 4/strings_solution.pdf",
-    "Week 4/PCRS.md",
     "Week 4/Lab 4.md",
     "Week 3/stack_vs_heap_solutions.pdf",
     "Week 3/PCRS Extra.md",
@@ -239,7 +240,6 @@
     "Assignment",
     "Untitled.canvas",
     "Week 1/CSC209_Lab1_Midterm_Study_Guide.md",
-    "Week 5",
     "Untitled 1.canvas",
     "2025-02-01.md",
     "Week 4.md",
