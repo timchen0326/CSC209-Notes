@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6/PCRS.md",
+                "file": "Week 8/Week 8 Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PCRS"
+              "title": "Week 8 Review"
             }
           },
           {
@@ -209,9 +209,17 @@
   },
   "active": "3f56f89c42d79302",
   "lastOpenFiles": [
-    "README.md",
+    "Week 7/Week 7 Review.md",
+    "Week 8/Week 8 Review.md",
+    "Week 6/Week 6 Review.md",
+    "Week 5/Week 5 Review.md",
+    "Week 5/PCRS.md",
     "Week 6/PCRS.md",
+    "Week 8",
+    "Week 8.md",
+    "Week 7",
     "Week 6/Lab 6.md",
+    "README.md",
     "Week 4/PCRS.md",
     "Week 6",
     "Week 2/Lab 2.md",
@@ -232,20 +240,15 @@
     "Week 2/PCRS.md",
     "Week 1/Lab 1.md",
     "Assignment/A1.md",
-    "Term Test 1 Practice Questions",
-    "Week 5/PCRS.md",
     "Screenshot 2025-02-02 at 4.37.32 PM.png",
     "Screenshot 2025-02-02 at 4.36.53 PM.png",
     "Screenshot 2025-02-02 at 4.34.12 PM.png",
-    "Untitled.md",
-    "Assignment",
     "Untitled.canvas",
     "Week 1/CSC209_Lab1_Midterm_Study_Guide.md",
     "Untitled 1.canvas",
     "2025-02-01.md",
     "Week 4.md",
     "Week 2/Lecture Notes.md",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
