@@ -25,15 +25,28 @@
             "id": "eb50d048f2045013",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Week 7/PCRS.md",
-                "bFile": "Week 7/PCRS.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Week 5/Week 5 Review.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: PCRS"
+              "icon": "lucide-file",
+              "title": "Week 5 Review"
+            }
+          },
+          {
+            "id": "5bd9912da68dabec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 10/PCRS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PCRS"
             }
           },
           {
@@ -65,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4/PCRS.md",
+                "file": "Week 10/PCRS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,48 +236,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb50d048f2045013",
+  "active": "dbfa47fbe2a5c3e1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Week 10/Week 10 Review.md",
+    "Week 10/PCRS.md",
+    "Week 4/PCRS.md",
+    "Assignment/A1.md",
+    "Week 9/Signals & Signal Handling — Study Notes.md",
+    "Week 10",
+    "Untitled",
+    "Week 10.md",
+    "Week 9/PCRS.md",
+    "README.md",
+    "Week 9/greeting-start 1.c",
+    "Week 4/strings_solution.pdf",
+    "Week 9/greeting-start.c",
+    "Week 9",
+    "Week 4/Lab 4.md",
+    "Week 3/Lab 3.md",
+    "Week 3/malloc_basics_solution.pdf",
+    "Week 3/stack_vs_heap_solutions.pdf",
+    "Week 3/PCRS Extra.md",
+    "Week 3/PCRS.md",
+    "Week 2/PCRS.md",
+    "Week 2/Lab 2.md",
+    "Week 2/calls_and_pointers-soln.pdf",
+    "Week 2/array_and_pointer_basics-soln.pdf",
+    "Week 1/Lecture Notes.md",
+    "Week 1/Lab 1.md",
     "Week 8/Week 8 Review.md",
-    "Week 7/PCRS.md",
     "Week 7/Week 7 Review.md",
+    "conflict-files-obsidian-git.md",
+    "Week 7/PCRS.md",
     "Week 6/Week 6 Review.md",
     "Week 5/Week 5 Review.md",
     "Week 5/PCRS.md",
     "Week 6/PCRS.md",
-    "Week 8",
     "Week 8.md",
-    "Week 7",
     "Week 6/Lab 6.md",
-    "README.md",
-    "Week 4/PCRS.md",
-    "Week 6",
-    "Week 2/Lab 2.md",
-    "Week 2/array_and_pointer_basics-soln.pdf",
-    "Week 1/Lecture Notes.md",
-    "Week 1/L1.2-ethics-paul.pdf",
-    "Week 1/L1.1-intro-paul.pdf",
-    "Term Test 1 Practice Questions/CSC209 Practice Questions.md",
-    "Term Test 1 Practice Questions/Fall 2024 Term Test 1 - Practice Questions.md",
-    "Week 4/strings_solution.pdf",
-    "Week 4/Lab 4.md",
-    "Week 3/stack_vs_heap_solutions.pdf",
-    "Week 3/PCRS Extra.md",
-    "Week 3/PCRS.md",
-    "Week 3/malloc_basics_solution.pdf",
-    "Week 3/Lab 3.md",
-    "Week 2/calls_and_pointers-soln.pdf",
-    "Week 2/PCRS.md",
-    "Week 1/Lab 1.md",
-    "Assignment/A1.md",
     "Screenshot 2025-02-02 at 4.37.32 PM.png",
     "Screenshot 2025-02-02 at 4.36.53 PM.png",
     "Screenshot 2025-02-02 at 4.34.12 PM.png",
     "Untitled.canvas",
-    "Week 1/CSC209_Lab1_Midterm_Study_Guide.md",
-    "Untitled 1.canvas",
-    "2025-02-01.md",
-    "Week 4.md"
+    "Untitled 1.canvas"
   ]
 }
