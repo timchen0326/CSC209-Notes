@@ -108,7 +108,7 @@
 ### 🔧 `select()` System Call
 
 ```c
-int select(int maxfdp1, fd_set *readset, fd_set *writeset,
+int select(int maxfdp1,fd_set *readset, fd_set *writeset,
            fd_set *exceptset, const struct timeval *timeout);
 ```
 
@@ -131,11 +131,11 @@ int select(int maxfdp1, fd_set *readset, fd_set *writeset,
 
 ### 📥 Readiness Conditions
 
-- **Readable**: data in recv buffer, EOF, pending connection.
+- **Readable**: data in receive buffer, end-of-file state on file descriptor, socket is a listening socket and there is a pending connection, socket error is pending
     
-- **Writable**: space in send buffer.
+- **Writable**: space in write buffer, a socket error is pending
     
-- **Exceptions**: out-of-band data.
+- **Exceptions**: TCP out-of-band data.
     
 
 ### 🧰 Macros for FD manipulation
